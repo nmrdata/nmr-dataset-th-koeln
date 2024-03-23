@@ -1,3 +1,3 @@
-This series of exercise is used to teach NMR spectroscopy at the University of Bern.
+This series of exercise is used to teach NMR spectroscopy at TH Köln.
 
 <-- LINKS -->
