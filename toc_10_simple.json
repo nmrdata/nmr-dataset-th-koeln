@@ -1,11 +1,59 @@
 [
   {
-    "id": "uE4w8VS71zuzyq40fxW/nMJbNeA=",
+    "id": "3lG3yM2rx1kpeP4dk4ssO/ddNMk=",
     "mf": "C9H8O4",
     "idCodeHash": "d14124446a2ac9e8182f3033cae26a9b",
     "idCode": "dklB@@QmR[fUxUZBBF@@",
-    "file": "./10_simple/exercise_01/index.json",
-    "title": "exercise_01",
+    "file": "./10_simple/excercise 01/index.json",
+    "title": "excercise 01",
     "selected": true
+  },
+  {
+    "id": "YqZnNRTY7AGoSncSOVwaqJpA7nQ=",
+    "mf": "C8H8O3",
+    "idCodeHash": "4c036f908fa54be9e07ba209863f07af",
+    "idCode": "dmtL@@yTee[VE`BJ@@",
+    "file": "./10_simple/excercise 02/index.json",
+    "title": "excercise 02"
+  },
+  {
+    "id": "vcfBwA3uwkz55O3hgAk/mSp6WP4=",
+    "mf": "C8H9NO2",
+    "idCodeHash": "8e267dc10642198090af07ddfcc604cf",
+    "idCode": "dmvD@DATf^Uqej@B@@",
+    "file": "./10_simple/excercise 03/index.json",
+    "title": "excercise 03"
+  },
+  {
+    "id": "C8kSbrZRNYml1/48kFg5cVZhCqA=",
+    "mf": "C13H18O2",
+    "idCodeHash": "6ad8a2b6e054335a191cfe22ec893918",
+    "idCode": "do|D@@QIn[WVeVj@Bj@@",
+    "file": "./10_simple/excercise 04/index.json",
+    "title": "excercise 04"
+  },
+  {
+    "id": "uZHlf0GgxooXohJPh+8IX7WNZDw=",
+    "mf": "C9H11NO2",
+    "idCodeHash": "ef0999031b04917000199a984c0d3b91",
+    "idCode": "dcND@MADfVU~UZ``H@@",
+    "file": "./10_simple/excercise 05/index.json",
+    "title": "excercise 05"
+  },
+  {
+    "id": "HtVtf1peHzNKcgBpl9JcB3ux4SY=",
+    "mf": "C9H10O3",
+    "idCodeHash": "f4f3d3d228b1facf6b7d7a777099fc93",
+    "idCode": "dcLL@@yTee[UaX@bh@@",
+    "file": "./10_simple/excercise 07/index.json",
+    "title": "excercise 07"
+  },
+  {
+    "id": "pBfw5afRRzzU5xYVjqak1b4btYQ=",
+    "mf": "C10H20O",
+    "idCodeHash": "6b895ee68950a73126a9c1e7a51daebe",
+    "idCode": "dmtH@@RYeeZZjjj@@",
+    "file": "./10_simple/excercise 08/index.json",
+    "title": "excercise 08"
   }
 ]

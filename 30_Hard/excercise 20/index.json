@@ -1,0 +1,44 @@
+{
+  "spectra": [
+    {
+      "source": {
+        "jcampURL": "./13C.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./1H.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./cosy.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./hmbc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    },
+    {
+      "source": {
+        "jcampURL": "./hsqc.dx"
+      },
+      "display": {
+        "name": ""
+      }
+    }
+  ]
+}
